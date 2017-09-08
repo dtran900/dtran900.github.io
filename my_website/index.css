@@ -1,0 +1,167 @@
+    .a{
+    text-align:center;
+    color:white;
+    }
+    .b{
+    text-align:center;
+    width:100%;
+    height:250px;
+    border:2px solid red;
+    background:#ffffff;
+    }
+    .c{
+    background:#003499;
+    }
+    .d{
+      float:left;
+      width:33%;
+      height:300px;
+      border:2px solid blue;
+      
+    }
+    .e{
+      float:left;
+      width:33%;
+      height:300px;
+      border:2px solid blue;
+    }
+    .f{
+      float:left;
+      width:33%;
+      height:300px;
+      border:2px solid blue;
+    }
+    .y{
+      border:2px solid black;
+      text-align:center;    
+    }
+    .z{
+      border:2px solid black;
+      width:100%;
+      height:25px;
+    }
+    .xyz{
+      text-align:center;
+      float:center;
+    }
+	.aa{
+	    float:left;
+	    width:12%;
+	    height:900px;
+	    background:#003366;
+	    border:2px double white;
+	}
+	.bb{
+	   background:#003366;
+	}
+    .cc{
+	  text-align:center;
+	  border:1px double #003366;
+	  background:#996699;
+	}
+	.dd{
+	 background:#00ff99;
+	 text-align:center;
+	}
+	.ee{
+	  background:cyan;
+	    border:2px solid black;
+      width:87.81%;
+      height:25px;
+	}
+	.ff{
+      float:right;
+      width:29%;
+      height:250px;
+      border:2px solid blue;
+    }
+    .gg{
+      float:right;
+      width:29.1%;
+      height:250px;
+      border:2px solid blue;
+    }
+    .hh{
+      float:right;
+      width:29.05403%;
+      height:250px;
+      border:2px solid blue;   
+    }
+    .ii{
+      height:50px;
+      width:99%;
+      font-size:25px;
+      background:#CCFF33;
+      border:1px solid #996699;
+    }
+    .jj{
+      border:2px solid white;
+      width:87%;
+      height:25px;
+    }
+	.aaa{
+	    text-align:center;
+	}
+	.bbb{
+	 background:magenta;
+	}
+    .ccc{
+      float:right;
+      width:33%;
+      height:300px;
+      border:2px solid blue;
+      
+    }
+    .ddd{
+      float:right;
+      width:33.36%;
+      height:300px;
+      border:2px solid blue;
+    }
+    .eee{
+      float:right;
+      width:33%;
+      height:300px;
+      border:2px solid blue;   
+    }
+    .fff{
+      float:left;
+      width:50%;
+      height:50px;
+      background:#cccccc;
+    }
+    .ggg{
+      font-size:20px;
+      text-align:center;
+    }
+    .hhh{
+	  background:#cccccc;
+	    border:2px solid black;
+      width:100%;
+      height:25px;
+      color:white;
+	}
+	.iii{
+	  background:#cccccc;
+	  width:50%;
+	  height:50px;
+	  float:right;
+	}
+	.jjj{
+	  border:2px solid black;
+	  width:100%;
+	  background:#996699;
+	  text-align:center;
+	}
+	.kkk{
+	  font-size: 20px;
+	  margin:10px;
+	  color:white;
+	}
+	.lll{
+	  border:2px solid black;
+	  width:100%;
+	  height:550px;
+	  background:#996699;
+	  text-align:center;
+	}
