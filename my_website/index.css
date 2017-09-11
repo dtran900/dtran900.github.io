@@ -32,7 +32,9 @@
     }
     .y{
       border:2px solid black;
-      text-align:center;    
+      text-align:center; 
+      width:100%;
+      height:800px;
     }
     .z{
       border:2px solid black;
@@ -52,6 +54,7 @@
 	}
 	.bb{
 	   background:#003366;
+
 	}
     .cc{
 	  text-align:center;
@@ -65,7 +68,7 @@
 	.ee{
 	  background:cyan;
 	    border:2px solid black;
-      width:87.81%;
+      width:87.7%;
       height:25px;
 	}
 	.ff{
@@ -76,13 +79,13 @@
     }
     .gg{
       float:right;
-      width:29.1%;
+      width:28.8%;
       height:250px;
       border:2px solid blue;
     }
     .hh{
       float:right;
-      width:29.05403%;
+      width:29%;
       height:250px;
       border:2px solid blue;   
     }
@@ -113,7 +116,7 @@
     }
     .ddd{
       float:right;
-      width:33.36%;
+      width:33%;
       height:300px;
       border:2px solid blue;
     }
