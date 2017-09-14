@@ -103,6 +103,8 @@
     }
 	.aaa{
 	    text-align:center;
+	    outline-color:red;
+	    outline-width:5px;
 	}
 	.bbb{
 	 background:magenta;
@@ -171,6 +173,12 @@
 	}
 	.nnn{
 	  color:black;
+	}
+	.ooo{
+	  border:2px solid black;
+	  width:100%;
+	  background:#996699;
+	  text-align:center;
 	}
 	
 	
